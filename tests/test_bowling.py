@@ -1,6 +1,6 @@
 import unittest
 
-import katas.bowling_game.bowling as bowl
+import bowling as bowl
 
 
 class TestBowlingCalculator(unittest.TestCase):
